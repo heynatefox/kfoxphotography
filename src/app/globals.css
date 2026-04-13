@@ -1,0 +1,127 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  html {
+    scroll-behavior: smooth;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+  }
+
+  body {
+    @apply bg-warm-50 text-charcoal font-sans;
+  }
+
+  h1, h2, h3, h4, h5, h6 {
+    @apply font-serif;
+  }
+
+  ::selection {
+    @apply bg-sage-200 text-charcoal-dark;
+  }
+}
+
+@layer components {
+  .section-padding {
+    @apply px-5 md:px-10 lg:px-16 xl:px-24;
+  }
+
+  .heading-xl {
+    @apply font-serif text-4xl md:text-5xl lg:text-6xl xl:text-7xl font-medium tracking-tight leading-[1.1];
+  }
+
+  .heading-lg {
+    @apply font-serif text-3xl md:text-4xl lg:text-5xl font-medium tracking-tight leading-[1.15];
+  }
+
+  .heading-md {
+    @apply font-serif text-2xl md:text-3xl font-medium tracking-tight leading-[1.2];
+  }
+
+  .body-lg {
+    @apply text-base md:text-lg leading-relaxed text-charcoal-light;
+  }
+
+  .body-sm {
+    @apply text-sm leading-relaxed text-charcoal-light;
+  }
+
+  .btn-primary {
+    @apply inline-block px-8 py-3.5 bg-charcoal text-warm-50 font-sans text-sm tracking-[0.15em] uppercase
+      hover:bg-charcoal-light transition-colors duration-300;
+  }
+
+  .btn-outline {
+    @apply inline-block px-8 py-3.5 border border-charcoal text-charcoal font-sans text-sm tracking-[0.15em] uppercase
+      hover:bg-charcoal hover:text-warm-50 transition-colors duration-300;
+  }
+
+  .divider-sage {
+    @apply w-16 h-[2px] bg-sage-300;
+  }
+}
+
+@layer utilities {
+  .text-balance {
+    text-wrap: balance;
+  }
+}
+
+/* Marquee */
+.marquee-track {
+  display: flex;
+  width: max-content;
+  animation: marquee 40s linear infinite;
+}
+
+.marquee-track:hover {
+  animation-play-state: paused;
+}
+
+@keyframes marquee {
+  0% { transform: translateX(0%); }
+  100% { transform: translateX(-50%); }
+}
+
+/* Image reveal on scroll */
+.reveal {
+  opacity: 0;
+  transform: translateY(30px);
+  transition:
+    opacity 0.8s cubic-bezier(0.16, 1, 0.3, 1),
+    transform 0.8s cubic-bezier(0.16, 1, 0.3, 1);
+}
+
+.reveal.visible {
+  opacity: 1;
+  transform: translateY(0);
+}
+
+/* Smooth image hover zoom */
+.img-hover-zoom {
+  overflow: hidden;
+}
+
+.img-hover-zoom img {
+  transition: transform 0.7s cubic-bezier(0.16, 1, 0.3, 1);
+}
+
+.img-hover-zoom:hover img {
+  transform: scale(1.05);
+}
+
+/* FAQ accordion */
+.faq-answer {
+  display: grid;
+  grid-template-rows: 0fr;
+  transition: grid-template-rows 0.4s cubic-bezier(0.16, 1, 0.3, 1);
+}
+
+.faq-answer.open {
+  grid-template-rows: 1fr;
+}
+
+.faq-answer > div {
+  overflow: hidden;
+}
