@@ -29,7 +29,7 @@ export const services = [
     description:
       "Our personalized brand photography and videography services include everything from creative concept development to detailed planning and seamless execution, all aimed at bringing your brand to life.",
     price: "Starting at $650",
-    image: "/images/image-3.jpg",
+    image: "/images/AltCrtv-Brand-Photography-K.Fox-Photography-115-2.JPG",
     href: "/services/brand-sessions",
   },
   {
@@ -37,7 +37,7 @@ export const services = [
     description:
       "Designed for business owners ready to elevate their brand by consistently showing up with fresh and engaging content across their website and social media platforms.",
     price: "Inquire for a personalized quote",
-    image: "/images/image-22.jpg",
+    image: "/images/Brand-Photography-Product-Photography-K.FoxPhotography-3.jpg",
     href: "/contact",
   },
   {
@@ -45,7 +45,7 @@ export const services = [
     description:
       "High-quality product photography and video content that showcases your products in their best light and drives engagement and sales.",
     price: "Inquire for a personalized quote",
-    image: "/images/image-23.jpg",
+    image: "/images/Divi-Brand-Content-Product-Photography-K.-Fox-Photography-8.jpg",
     href: "/contact",
   },
   {
@@ -53,7 +53,7 @@ export const services = [
     description:
       "Professional headshots that DON'T feel corporate-like or boring. Natural, authentic portraits that capture your personality.",
     price: "Individual + Group Pricing Options",
-    image: "/images/image-24.jpg",
+    image: "/images/CAHFinals2022-23.jpg",
     href: "/contact",
   },
   {
@@ -61,7 +61,7 @@ export const services = [
     description:
       "Capture the energy and moments of your brand events, workshops, and gatherings with professional photo and video coverage.",
     price: "Inquire for a personalized quote",
-    image: "/images/image-25.jpg",
+    image: "/images/K.Fox-Photography---Brand-Photography-Events.jpg",
     href: "/contact",
   },
 ];
@@ -69,17 +69,17 @@ export const services = [
 export const homeServices = [
   {
     title: "Brand Sessions",
-    image: "/images/image-3.jpg",
+    image: "/images/AltCrtv-Brand-Photography-K.Fox-Photography-115-2.JPG",
     href: "/services/brand-sessions",
   },
   {
     title: "Product Photo + Video",
-    image: "/images/image-4.jpg",
+    image: "/images/Solterra-Product-Photography-Brand-2023-San-Francisco-K.Fox-Photography-4.JPG",
     href: "/services",
   },
   {
     title: "Studio Headshots",
-    image: "/images/image-5.jpg",
+    image: "/images/7EC2892E-CFCD-4645-96DD-64CAA32DFE00.JPG",
     href: "/services",
   },
 ];
@@ -90,35 +90,35 @@ export const testimonials = [
       "Keighla is THE photographer to work with. We have now worked together on two occasions. The shoots produced incredible options that captured exactly what I wanted. To note - Keighla made us feel so relaxed and free to be ourselves. We will be working with Keighla for all future photography needs",
     name: "Alexis",
     title: "Asset Manager",
-    image: "/images/image-9.jpg",
+    image: "/images/AlexisHeadshots2022-7.jpg",
   },
   {
     quote:
       "Keighla has helped me express my most authentic self for my brand photography for years now. The photos are always spot on to what I envisioned and I couldn't have done it without her. I use my photos on my social media, email marketing, website, anything I can - it makes my brand feel so professional and elevated. If you have any doubt in your mind, let me reassure you - HIRE HER!",
     name: "Natalie Cardona",
     title: "Entrepreneur",
-    image: "/images/image-10.jpg",
+    image: "/images/NatalieAltBrand2022-32_Original.jpg",
   },
   {
     quote:
       "Keighla's energy during our first meeting was so awesome, you can definitely tell her passion in photography and wanting to make her clients look their best. Not only did she have a mood board ready for me that matched exactly what I wanted; I felt so comfortable and beautiful in front of her and the camera. Her posing direction and lighting was on-point, communication with her was fast and clear. Had nothing but the best experience - and most importantly, my photos turned out great. If you get a chance, please book with her.",
     name: "Michelle",
     title: "Personal Brand",
-    image: "/images/image-11.jpg",
+    image: "/images/Michelle-Celebrating32Years-2023-K.FoxPhotography-24.jpg",
   },
   {
     quote:
       "10/10! I hired Keighla to do my brand photography and I couldn't be happier. She completely nailed the vibe I was going for. I'm so happy with the photos. She's very easy to work with and a master at her craft.",
     name: "Grace Burns",
     title: "Haven Nanny Co",
-    image: "/images/image-12.png",
+    image: "/images/Screenshot-2024-10-01-at-12.15.08-E2-80-AFPM.png",
   },
   {
     quote:
       "Working with Keighla was amazing. She went above and beyond to highlight my vision in her photos. When we first began, I had an idea of the aesthetic I was looking for, but she really helped me fine tune and target my brand and how I wanted to present myself to my clients. She is so easy to talk to and flexible. There was no pressure and I was really able to be myself throughout the process. The photos I received were so nice, flattering, professional and exactly what I had wanted. I truly had a difficult time choosing my final selection. I am so happy with the whole process and product!",
     name: "Marisa",
     title: "Small Business Owner",
-    image: "/images/image-13.jpg",
+    image: "/images/Wonderkind-Brand-Photography-Summer2024-Marin-CA-K.Fox-Photography-15.jpg",
   },
 ];
 
@@ -158,8 +158,8 @@ export const aboutBio = {
     "K. Fox Photography partners with entrepreneurs to create elevated and curated photo and video content that brings your brand to life.",
   bio: "I'm a brand, lifestyle and portrait photographer here in the San Francisco Bay Area. My love for photography started in the suburbs outside of Boston where I was born and raised. In 2011, I moved to the west coast of Florida, where I launched K. Fox Photography. I did everything from families and newborns to weddings and events. Shortly after I married my husband, we moved across the country to start a new life in the city we honeymooned in. When we moved to San Francisco, I took a role as an executive assistant at a creative agency. I got to experience working alongside some of the most talented creatives, with some of the biggest brand name companies. Working in that field inspired me to get back to my own business. Now in the hills of Marin, I balance running my own brand photography business while also raising my two beautiful daughters, now 6 and 3. I love nothing more than my time with my family, I'm a coffee snob who can only handle decaf, and I put Frank's Hot Sauce on literally everything. I love my job, and I'm passionate about the work I do. There's nothing quite like building your own business, and knowing you're building up other people's passions in the process makes it all the better.",
   closing: "I can't wait to meet you and bring your brand to life!",
-  image: "/images/image-36.jpg",
-  secondaryImage: "/images/image-37.jpg",
+  image: "/images/Keighla-2024-Brand-Photograhy-Headshots-Studio-Portraits-Marin-CA-K.FoxPhotography-3.jpg",
+  secondaryImage: "/images/Wildflower-Creative-2023-Journals-K.-Fox-Photography-8-2.jpg",
 };
 
 export const studioInfo = {
@@ -170,7 +170,11 @@ export const studioInfo = {
   secondaryText:
     "Beyond photo sessions, the studio also hosts small gatherings, workshops, and creative events — a welcoming place to connect, collaborate, and bring ideas to life.",
   cta: "Reserve the studio for your next shoot or event and experience one of the Bay Area's most inspiring creative spaces.",
-  images: ["/images/image-19.jpg", "/images/image-20.jpg", "/images/image-21.jpg"],
+  images: [
+    "/images/Studio-5-2.JPG",
+    "/images/Studio-2-2.PNG",
+    "/images/Studio-6-2.jpg",
+  ],
   membership: {
     title: "Membership Program",
     description:
@@ -260,92 +264,106 @@ export const portfolioProjects: PortfolioProject[] = [
   {
     slug: "solterra-brand-product",
     title: "Solterra Brand + Product Shoot",
-    thumbnail: "/images/image-1.jpg",
+    thumbnail: "/images/Solterra-Brand-Lifestyle-K.Fox-Photography-7.jpg",
     category: "Brand + Product",
     images: [
-      "/images/image-45.jpg",
-      "/images/image-46.jpg",
-      "/images/image-47.jpg",
-      "/images/image-49.jpg",
-      "/images/image-50.jpg",
-      "/images/image-51.jpg",
-      "/images/image-52.jpg",
-      "/images/image-53.jpg",
-      "/images/image-54.png",
-      "/images/image-55.jpeg",
-      "/images/image-57.jpg",
-      "/images/image-58.png",
-      "/images/image-0.jpg",
-      "/images/image-2.jpg",
-      "/images/image-4.jpg",
+      "/images/Solterra-Brand-Photography-Portfolio-8.jpg",
+      "/images/Solterra-Brand-Photography-Portfolio-13.jpg",
+      "/images/Solterra-Brand-Lifestyle-K.Fox-Photography-7-2.jpg",
+      "/images/Solterra-Brand-Photography-Portfolio-3.jpg",
+      "/images/Solterra-Product-Photography-Brand-2023-San-Francisco-K.Fox-Photography-4.jpg",
+      "/images/Solterra-Brand-Photography-Portfolio-6.jpg",
+      "/images/Solterra-Brand-Lifestyle-K.Fox-Photography-9.jpg",
+      "/images/Solterra-Brand-Photography-Portfolio-4.jpg",
+      "/images/Solterra-Product-Photography-Brand-2023-San-Francisco-K.Fox-Photography-2.jpg",
+      "/images/Solterra-Brand-Photography-Portfolio-7.jpg",
+      "/images/Solterra-Brand-Lifestyle-K.Fox-Photography-3.jpg",
+      "/images/Solterra-Brand-Photography-Portfolio-5.jpg",
     ],
   },
   {
     slug: "aesthetician-brand-content",
     title: "Aesthetician Brand Content Shoot",
-    thumbnail: "/images/image-27.jpg",
+    thumbnail: "/images/Chryzhelle-27s-Aesthetics-Brand-Photography-Pleasanton-CA-08.2024-K.Fox-Photography-20.jpg",
     category: "Brand",
-    images: ["/images/image-7.jpg", "/images/image-27.jpg"],
+    images: [
+      "/images/Chryzhelle-27s-Aesthetics-Brand-Photography-Pleasanton-CA-08.2024-K.Fox-Photography-14.jpg",
+      "/images/Chryzhelle-27s-Aesthetics-Brand-Photography-Pleasanton-CA-08.2024-K.Fox-Photography-20.jpg",
+    ],
   },
   {
     slug: "creative-agency-brand",
     title: "Creative Agency Brand Photoshoot",
-    thumbnail: "/images/image-28.jpg",
+    thumbnail: "/images/AltCrtv-Brand-Photography-K.Fox-Photography-2.jpg",
     category: "Brand",
     images: [
-      "/images/image-28.jpg",
-      "/images/image-3.jpg",
-      "/images/image-42.jpg",
-      "/images/image-43.jpg",
-      "/images/image-44.jpg",
+      "/images/AltCrtv-Brand-Photography-K.Fox-Photography-2.jpg",
+      "/images/AltCrtv-Brand-Photography-K.Fox-Photography-91.jpg",
+      "/images/AltCrtv-Brand-Photography-K.Fox-Photography-103.jpg",
+      "/images/AltCrtv-Brand-Photography-K.Fox-Photography-115.jpg",
+      "/images/AltCrtv-Brand-Photography-K.Fox-Photography-115-2.JPG",
     ],
   },
   {
     slug: "moonhaven-brand-content",
     title: "MoonHaven Brand Content Shoot",
-    thumbnail: "/images/image-29.jpg",
+    thumbnail: "/images/Moon-Haven-Candle-Co-Brand-Photography-2024-K.-Fox-Photography-26.jpg",
     category: "Brand + Product",
-    images: ["/images/image-29.jpg", "/images/image-6.jpg"],
+    images: [
+      "/images/Moon-Haven-Candle-Co-Brand-Photography-2024-K.-Fox-Photography-26.jpg",
+      "/images/Lyd_Moonhaven_Preview_Brand_Photography_K.Fox-Photography-4.JPG",
+    ],
   },
   {
     slug: "sf-physical-therapy",
     title: "SF Physical Therapy + Performance Brand Shoot",
-    thumbnail: "/images/image-30.jpg",
+    thumbnail: "/images/SanFrancisco-Physical-Therapy-Performance-Brand-Photography-SF-K.-Fox-Photography-60.jpg",
     category: "Brand",
-    images: ["/images/image-30.jpg"],
+    images: [
+      "/images/SanFrancisco-Physical-Therapy-Performance-Brand-Photography-SF-K.-Fox-Photography-60.jpg",
+    ],
   },
   {
     slug: "wildflower-creative",
     title: "Wildflower Creative",
-    thumbnail: "/images/image-31.jpg",
+    thumbnail: "/images/Wildflower-Creative-2023-Journals-K.-Fox-Photography-12-2.jpg",
     category: "Product",
-    images: ["/images/image-31.jpg", "/images/image-37.jpg", "/images/image-35.jpg"],
+    images: [
+      "/images/Wildflower-Creative-2023-Journals-K.-Fox-Photography-12-2.jpg",
+      "/images/Wildflower-Creative-2023-Journals-K.-Fox-Photography-8-2.jpg",
+      "/images/StackingBooks-1-2.JPG",
+    ],
   },
   {
     slug: "nixie-sparkling-water",
     title: "Sparkling Water Product Shoot",
-    thumbnail: "/images/image-32.jpg",
+    thumbnail: "/images/Nixie-Brand-Content-Product-Photography-K.-Fox-Photography-22.jpg",
     category: "Product",
     description:
       "This is a spec shoot featuring Nixie's organic sparkling water, aimed at showcasing my approach to brand product photography.",
-    images: ["/images/image-32.jpg"],
+    images: [
+      "/images/Nixie-Brand-Content-Product-Photography-K.-Fox-Photography-22.jpg",
+    ],
   },
   {
     slug: "divi-hair-health",
     title: "Divi Scalp + Hair Health Product Photoshoot",
-    thumbnail: "/images/image-33.jpg",
+    thumbnail: "/images/Divi-Brand-Content-Product-Photography-K.-Fox-Photography-8-2.jpg",
     category: "Product",
     description:
       "This is a spec shoot featuring Divi hair and scalp health products aimed at showcasing my approach to product photography.",
-    images: ["/images/image-33.jpg", "/images/image-23.jpg"],
+    images: [
+      "/images/Divi-Brand-Content-Product-Photography-K.-Fox-Photography-8-2.jpg",
+      "/images/Divi-Brand-Content-Product-Photography-K.-Fox-Photography-8.jpg",
+    ],
   },
   {
     slug: "realwomen",
     title: "RealWomen",
-    thumbnail: "/images/image-34.jpg",
+    thumbnail: "/images/SAYARW-26.jpg",
     category: "Lifestyle",
     description:
       "RealWomen was an inspirational project that brought me out of postpartum/pandemic woes and back into the beauty of photography.",
-    images: ["/images/image-34.jpg"],
+    images: ["/images/SAYARW-26.jpg"],
   },
 ];

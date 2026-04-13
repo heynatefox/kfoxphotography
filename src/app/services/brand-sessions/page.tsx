@@ -15,7 +15,7 @@ export default function BrandSessions() {
       <section className="relative h-[50vh] min-h-[350px] flex items-center justify-center">
         <div className="absolute inset-0">
           <Image
-            src="/images/image-42.jpg"
+            src="/images/AltCrtv-Brand-Photography-K.Fox-Photography-103.jpg"
             alt="Brand photography session"
             fill
             className="object-cover"

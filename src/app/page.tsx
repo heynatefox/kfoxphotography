@@ -12,7 +12,7 @@ export default function Home() {
       <section className="relative h-screen min-h-[600px] flex items-end">
         <div className="absolute inset-0">
           <Image
-            src="/images/image-0.jpg"
+            src="/images/Solterra-Brand-Lifestyle-K.Fox-Photography-3.jpg"
             alt="Brand photography by K. Fox Photography"
             fill
             className="object-cover"
@@ -94,7 +94,7 @@ export default function Home() {
               <div className="relative">
                 <div className="aspect-[4/5] relative">
                   <Image
-                    src="/images/image-1.jpg"
+                    src="/images/Solterra-Brand-Lifestyle-K.Fox-Photography-7.jpg"
                     alt="Brand photography session"
                     fill
                     className="object-cover"
@@ -198,7 +198,7 @@ export default function Home() {
       <section className="relative py-24 md:py-32">
         <div className="absolute inset-0">
           <Image
-            src="/images/image-8.jpg"
+            src="/images/Keighla-2024-Brand-Photograhy-Headshots-Studio-Portraits-Marin-CA-K.FoxPhotography-7.jpg"
             alt="K. Fox Photography studio"
             fill
             className="object-cover"

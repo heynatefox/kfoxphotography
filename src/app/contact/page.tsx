@@ -14,7 +14,7 @@ export default function Contact() {
         <div className="grid grid-cols-2 h-full">
           <div className="relative">
             <Image
-              src="/images/image-38.jpg"
+              src="/images/Keighla-2024-Brand-Photograhy-Headshots-Studio-Portraits-Marin-CA-K.FoxPhotography-10.jpg"
               alt="Keighla Fox"
               fill
               className="object-cover"
@@ -23,7 +23,7 @@ export default function Contact() {
           </div>
           <div className="relative">
             <Image
-              src="/images/image-39.jpg"
+              src="/images/Keighla-2024-Brand-Photograhy-Headshots-Studio-Portraits-Marin-CA-K.FoxPhotography-6.jpg"
               alt="Keighla Fox"
               fill
               className="object-cover"
@@ -36,7 +36,7 @@ export default function Contact() {
       {/* Mobile hero image */}
       <div className="md:hidden relative aspect-[16/9]">
         <Image
-          src="/images/image-38.jpg"
+          src="/images/Keighla-2024-Brand-Photograhy-Headshots-Studio-Portraits-Marin-CA-K.FoxPhotography-10.jpg"
           alt="Keighla Fox"
           fill
           className="object-cover"
